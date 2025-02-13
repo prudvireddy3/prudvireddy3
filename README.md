@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist & AI Enthusiast 🚀</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/prudvi-reddy/]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/prudvi-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:prudvireddy369@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
 </p>
 
