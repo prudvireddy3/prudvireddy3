@@ -51,9 +51,8 @@
 ### 🏆 GitHub Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prudvireddy3&theme=radical" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=prudvireddy3&theme=radical&cache=none" alt="GitHub Streak">
 </p>
-
 
 ---
 
