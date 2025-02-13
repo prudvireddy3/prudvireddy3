@@ -65,6 +65,6 @@
 ---
 
 ### 📫 Connect with Me  
-💼 LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prudvi-reddy/)  
+💼 LinkedIn: [https://www.linkedin.com/in/prudvi-reddy/](https://www.linkedin.com/in/prudvi-reddy/)  
 📧 Email: [prudvireddy369@gmail.com](mailto:prudvireddy369@gmail.com)  
 
