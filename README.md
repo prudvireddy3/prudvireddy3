@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Prudvi Reddy 👋</h1>
 <h3 align="center">🚀 Data Scientist | AI Enthusiast | Tech Explorer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F73B3B&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Enthusiast+%7C+IoT+Developer;Passionate+about+AI%2C+ML%2C+and+Data+Science;Transforming+Ideas+into+Real-World+Projects" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prudvi-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
