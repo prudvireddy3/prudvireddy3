@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Data Scientist & AI Enthusiast 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prudvi-reddy/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:prudvireddy369@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 🌱 Learning **SQL, Power BI, and Advanced DSA**  
 💡 Interested in **AI, Data Analytics, and Deep Learning**  
 💬 Ask me about **Python, Data Science, and SQL**  
-📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)  
+📫 How to reach me: [prudvireddy369@gmail.com](mailto:prudvireddy369@gmail.com)  
 
 ---
 
