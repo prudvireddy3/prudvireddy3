@@ -65,6 +65,6 @@
 ---
 
 ### 📫 Connect with Me  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+💼 LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/prudvi-reddy/)  
+📧 Email: [prudvireddy369@gmail.com](mailto:prudvireddy369@gmail.com)  
 
