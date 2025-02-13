@@ -58,9 +58,9 @@
 
 ### 📌 Pinned Projects  
 
-⭐ **[Customer Churn Prediction](https://github.com/prudvireddy3/your-repo)**  
-📊 **[SQL Data Analysis Portfolio](https://github.com/prudvireddy3/your-repo)**  
-📊 **[Power BI Dashboard](https://github.com/prudvireddy3/your-repo)**  
+⭐ **[Customer Churn Prediction](https://github.com/prudvireddy3/customer-churn-prediction-2)**  
+📊 
+📊 
 
 ---
 
